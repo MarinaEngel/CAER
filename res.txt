@@ -1,0 +1,9 @@
+Wavelength number 3 (0.55 mkm)
+Aerosol optical depth: 0.43
+Solar zenith angle: 27 deg
+Satellite zenith angle: 34 deg
+Cloud geometric thickness: 1.6 km
+Cloud cover index: 0.087
+Cloud extinction: 60 km-1
+Ground reflectance: 1
+RCritical = 4.7555

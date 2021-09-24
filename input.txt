@@ -1,0 +1,8 @@
+3 - wavelength number (1: 0.41 mkm, 2: 0.47 mkm, 3: 0.55 mkm, 4: 0.68 mkm, 5: 0.86 mkm)
+0.43 - aerosol optical depth
+27 - solarzenith angle (deg)
+34 - satellite zenith angle (deg)
+1.6 - mean cloud geometric thickness (km)
+0.087 - cloud cover index
+60 - cloud extinction (km-1)
+1 - reflectance
